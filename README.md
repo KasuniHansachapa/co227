@@ -1,1 +1,1 @@
-# co227
+# A demonstration project
